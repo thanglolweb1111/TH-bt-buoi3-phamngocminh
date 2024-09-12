@@ -4,10 +4,10 @@ This is an [Expo](https://expo.dev) project created with [`create-expo-app`](htt
 
 ## Get started
 
-1. Install dependencies
+1. Install dependencies 
 
    ```bash
-   npm install
+   npm install @react-navigation/native @react-navigation/stack @react-navigation/material-bottom-tabs @react-navigation/drawer react-native-screens react-native-safe-area-context react-native-gesture-handler react-native-reanimated react-native-paper @expo/vector-icons uuid react-native-get-random-values @reduxjs/toolkit react-redux
    ```
 
 2. Start the app
